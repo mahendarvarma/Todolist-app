@@ -30,22 +30,26 @@ Clicl ->   https://todolist-app-jade.vercel.app/
 git clone https://github.com/mahendarvarma/Todolist-app.git
 
 
-2 .Open the project folder:
-
-Copy code
-cd todo-list-app
-Open index.html in your browser.
-
 Usage
-Describe how to use your TodoList app. Include any configuration settings, if necessary.
+
+To use the TodoList app, follow these steps:
+
+1.Add a new task by clicking the "Add Task" button.
+2.Edit a task by clicking the pencil icon.
+3.Mark a task as completed by clicking the checkbox.
+4.Delete a task by clicking the trash icon.
+
 
 Contributing
+
 If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository
-Create a new branch: git checkout -b feature/new-feature
-Commit your changes: git commit -am 'Add new feature'
-Push to the branch: git push origin feature/new-feature
-Submit a pull request
+1.Fork the repository
+2.Create a new branch: git checkout -b feature/new-feature
+3.Commit your changes: git commit -am 'Add new feature'
+4.Push to the branch: git push origin feature/new-feature
+5.Submit a pull request
+
 License
+
 This project is licensed under the MIT License.
